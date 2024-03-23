@@ -1,0 +1,4 @@
+1. 按照wms/src/sql/lab3.sql文件创建数据库
+2. 修改wms/src/main/resources/application.properties文件中的数据库用户名和密码
+3. 运行后端，前端
+4. java1.8
